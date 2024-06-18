@@ -1,0 +1,16 @@
+prijava odjava
+podstran za registracijo
+
+sql security
+
+css tud za na font
+
+php filter
+filter_var().....
+filter veljavnosti vs filter ciscenja
+sanitize filter
+flags
+
+ko getas post pa get das v tte funkcje
+password_hash()
+password_verify()
